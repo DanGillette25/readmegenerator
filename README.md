@@ -1,4 +1,4 @@
-##ReadMe for ReadMe AutoGenerator 
+##ReadMe 
 
   [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -29,7 +29,13 @@
 
   ## Usage
     
-  Simply run index.js from your terminal.  Once you've answered the prompts, a readme document will be auto-generated based on your answers.
+  Simply run index.js from your terminal.  
+  
+  [![Screenshot](https://github.com/DanGillette25/readmegenerator/blob/master/screenshot1.JPG)]
+  
+  Once you've answered the prompts, a readme document will be auto-generated based on your answers.  
+  
+  [![Screenshot](https://github.com/DanGillette25/readmegenerator/blob/master/screenshot2.JPG)]
 
   ## Contribution 
     
