@@ -92,7 +92,7 @@ inquirer
 
     
 
-  fs.appendFile("readme.md",`##ReadMe for ${response.title} 
+  fs.appendFile("readme.md",`# ReadMe for ${response.title} 
 
   ${licenseLink}
 
